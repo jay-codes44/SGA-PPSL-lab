@@ -1,0 +1,14 @@
+# PRN : 26070122272
+month = int(input("Enter month number (1-12): "))
+
+if month == 2:
+    print("Number of days: 28 or 29")
+
+elif month == 4 or month == 6 or month == 9 or month == 11:
+    print("Number of days: 30")
+
+elif month >= 1 and month <= 12:
+    print("Number of days: 31")
+
+else:
+    print("Invalid month")

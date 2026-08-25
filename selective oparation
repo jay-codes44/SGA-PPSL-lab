@@ -1,0 +1,29 @@
+print("----- Calculator Menu -----")
+print("1. Addition")
+print("2. Subtraction")
+print("3. Multiplication")
+print("4. Division")
+print("Please enter a number from 1 to 4 to select an operation.")
+
+choice = int(input("Enter your choice: "))
+
+a = float(input("Enter first number: "))
+b = float(input("Enter second number: "))
+
+if choice == 1:
+    print("Addition =", a + b)
+
+elif choice == 2:
+    print("Subtraction =", a - b)
+
+elif choice == 3:
+    print("Multiplication =", a * b)
+
+elif choice == 4:
+    if b != 0:
+        print("Division =", a / b)
+    else:
+        print("Cannot divide by zero")
+
+else:
+    print("Invalid choice")

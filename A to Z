@@ -1,0 +1,5 @@
+#PRN : 26070122272
+ch = 'A'
+while ch <= 'Z':
+    print(ch, ":", ord(ch))
+    ch = chr(ord(ch) + 1)

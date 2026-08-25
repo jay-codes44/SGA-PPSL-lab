@@ -1,0 +1,13 @@
+# PRN : 26070122272
+percentage = float(input("Enter percentage: "))
+
+if percentage >= 90:
+    print("Excellent")
+elif percentage >= 75:
+    print("Very Good")
+elif percentage >= 60:
+    print("Good")
+elif percentage >= 40:
+    print("Average")
+else:
+    print("Fail")
