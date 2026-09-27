@@ -1,0 +1,31 @@
+Order Number,Order Date,Order Time,Student ID,Order Items,Quantity,Total Price (?),Payment Mode,Order Type,Status
+ORD001,03-Aug-2026,09:15 AM,STU001,Masala Dosa x1; Tea x1,2,?100,UPI,Dine-In,Completed
+ORD002,04-Aug-2026,01:10 PM,STU002,Veg Biryani x1,1,?120,Card,Dine-In,Completed
+ORD003,05-Aug-2026,12:45 PM,STU003,Chicken Roll x1; Tea x1,2,?130,UPI,Takeaway,Completed
+ORD004,06-Aug-2026,04:20 PM,STU004,Veg Sandwich x1; Cold Coffee x1,2,?130,UPI,Takeaway,Completed
+ORD005,07-Aug-2026,01:30 PM,STU005,Chicken Biryani x1,1,?160,Cash,Dine-In,Completed
+ORD006,10-Aug-2026,09:40 AM,STU001,Idli Sambar x1; Tea x1,2,?80,Cash,Dine-In,Completed
+ORD007,11-Aug-2026,02:05 PM,STU007,Chicken Roll x2,2,?220,UPI,Takeaway,Completed
+ORD008,12-Aug-2026,12:20 PM,STU003,Paneer Roll x1; Tea x1,2,?110,Card,Dine-In,Completed
+ORD009,13-Aug-2026,03:50 PM,STU009,Samosa x2; Tea x1,3,?70,UPI,Dine-In,Completed
+ORD010,14-Aug-2026,01:00 PM,STU001,Veg Biryani x1; Samosa x1,2,?145,UPI,Takeaway,Completed
+ORD011,14-Aug-2026,10:15 AM,STU001,Veg Sandwich x1; Tea x1,2,? 80,Card,Dine-In,Completed
+ORD012,17-Aug-2026,1:25 PM,STU003,Chicken Biryani x1; Tea x1,2,? 180,UPI,Dine-In,Completed
+ORD013,18-Aug-2026,11:45 AM,STU005,Chicken Roll x1; Samosa x1,2,? 135,Cash,Takeaway,Completed
+ORD014,19-Aug-2026,9:30 AM,STU002,Masala Dosa x1; Tea x1,2,? 100,UPI,Dine-In,Completed
+ORD015,20-Aug-2026,2:40 PM,STU004,Paneer Roll x2,2,? 180,Card,Takeaway,Completed
+ORD016,21-Aug-2026,12:15 PM,STU007,Chicken Biryani x1; Samosa x2,3,? 210,UPI,Dine-In,Completed
+ORD017,24-Aug-2026,4:10 PM,STU008,Veg Sandwich x1; Samosa x1; Tea x1,3,? 105,Cash,Dine-In,Completed
+ORD018,25-Aug-2026,1:35 PM,STU009,Chicken Roll x1; Tea x1,2,? 130,UPI,Takeaway,Completed
+ORD019,26-Aug-2026,9:20 AM,STU010,Idli Sambar x1; Tea x1,2,? 80,Card,Dine-In,Completed
+ORD020,27-Aug-2026,12:55 PM,STU006,Veg Biryani x1; Tea x1,2,? 140,UPI,Dine-In,Completed
+ORD021,28-Aug-2026,3:25 PM,STU001,Paneer Roll x1; Samosa x2,3,? 140,Cash,Takeaway,Completed
+ORD022,31-Aug-2026,1:15 PM,STU003,Chicken Biryani x1; Chicken Roll x1,2,? 270,UPI,Dine-In,Completed
+ORD023,01-Sep-2026,10:05 AM,STU005,Masala Dosa x1; Tea x2,3,? 120,Card,Dine-In,Completed
+ORD024,02-Sep-2026,12:30 PM,STU002,Veg Biryani x1; Samosa x1,2,? 145,UPI,Takeaway,Completed
+ORD025,03-Sep-2026,9:50 AM,STU006,Idli Sambar x1; Tea x1,2,? 80,Cash,Dine-In,Completed
+ORD026,04-Sep-2026,1:40 PM,STU007,Chicken Roll x2; Tea x1,3,? 240,UPI,Takeaway,Completed
+ORD027,05-Sep-2026,4:00 PM,STU008,Veg Sandwich x1; Tea x2,3,? 100,Card,Dine-In,Completed
+ORD028,07-Sep-2026,12:10 PM,STU009,Chicken Biryani x1,1,? 160,UPI,Dine-In,Completed
+ORD029,08-Sep-2026,10:40 AM,STU010,Masala Dosa x1; Samosa x1,2,? 105,Cash,Takeaway,Completed
+ORD030,09-Sep-2026,1:20 PM,STU004,Paneer Roll x1; Veg Sandwich x1,2,? 150,UPI,Dine-In,

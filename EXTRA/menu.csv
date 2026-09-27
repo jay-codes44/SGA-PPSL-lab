@@ -1,0 +1,11 @@
+Item ID,Item Name,Category,Price (?),Veg/Non-Veg,Spice Level,Availability
+M001,Veg Sandwich,Snacks,?60,Veg,Mild,Available
+M002,Paneer Roll,Snacks,?90,Veg,Medium,Available
+M003,Chicken Roll,Snacks,?110,Non-Veg,Medium,Available
+M004,Veg Biryani,Main Course,?120,Veg,Spicy,Available
+M005,Chicken Biryani,Main Course,?160,Non-Veg,Spicy,Available
+M006,Masala Dosa,Breakfast,?80,Veg,Medium,Available
+M007,Idli Sambar,Breakfast,?60,Veg,Mild,Available
+M008,Samosa,Snacks,?25,Veg,Medium,Available
+M009,Tea,Beverage,?20,Veg,None,Available
+M010,Cold Coffee,Beverage,?70,Veg,None,Unavailable
