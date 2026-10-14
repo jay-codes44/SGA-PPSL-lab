@@ -1,0 +1,31 @@
+Student_Staff_ID,Canteen_Feedback,Sentiment_Score,Sentiment
+SIT001,The food is delicious and the staff are friendly. Great service!,0.906,Positive
+SIT002,The food was cold and tasteless. I am very disappointed.,-0.5256,Negative
+SIT003,"The canteen is okay. Nothing special, but nothing too bad.",0.5568,Positive
+SIT004,Excellent quality and reasonable prices. I really enjoyed my lunch.,0.807,Positive
+SIT005,The tables were dirty and the service was very slow.,-0.4404,Negative
+SIT006,The tea was good and snacks were fresh.,0.6369,Positive
+SIT007,The food is too expensive for the quality provided.,0.0,Neutral
+SIT008,It was an average experience. The food was acceptable.,0.3182,Positive
+SIT009,"Friendly staff, tasty food, and quick service. Very satisfied!",0.7639,Positive
+SIT010,The food smelled bad and was not fresh. Very poor quality.,-0.4002,Negative
+SIT011,The menu has enough variety and the meals are usually good.,0.4404,Positive
+SIT012,I waited a long time and my order was wrong. Bad experience.,-0.765,Negative
+SIT013,The food is fine and the canteen is usually clean.,0.5423,Positive
+SIT014,Amazing sandwiches and fresh juice. I love this canteen!,0.8908,Positive
+SIT015,The rice was undercooked and the curry was too salty.,0.0,Neutral
+SIT016,"The service was neither fast nor slow, and the food was average.",0.0,Neutral
+SIT017,"Affordable meals, generous portions, and good taste.",0.7351,Positive
+SIT018,The floor was dirty and there were not enough seats.,-0.4404,Negative
+SIT019,The breakfast was fresh and delicious. Great value for money.,0.91,Positive
+SIT020,"The food was not bad, but the service could be better.",0.698,Positive
+SIT021,I am happy with the quality and cleanliness of the canteen.,0.5719,Positive
+SIT022,The portion was small and the food was disappointing.,-0.4939,Negative
+SIT023,The staff were polite and the food arrived quickly.,0.0,Neutral
+SIT024,It is an ordinary canteen with a standard menu.,0.0,Neutral
+SIT025,The noodles were oily and the food tasted terrible.,-0.4767,Negative
+SIT026,"Clean environment, delicious meals, and excellent service.",0.8779,Positive
+SIT027,"The food quality changes every day, so the experience is inconsistent.",0.0,Neutral
+SIT028,The coffee was great and the sandwich was fresh.,0.7506,Positive
+SIT029,The staff ignored my request and were rude.,-0.6486,Negative
+SIT030,"The canteen is decent, and I have no major complaints.",-0.5994,Negative
